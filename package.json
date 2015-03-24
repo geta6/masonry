@@ -26,7 +26,8 @@
   "homepage": "https://github.com/desandro/masonry",
   "dependencies": {
     "get-size": "eiriklv/get-size",
-    "outlayer": "eiriklv/outlayer"
+    "outlayer": "eiriklv/outlayer",
+    "desandro-matches-selector": "^1.0.3"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
